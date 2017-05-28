@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author SamDyaji
  */
 public class Evenorodd {
 
